@@ -1,0 +1,136 @@
+<!DOCTYPE html> <html>
+
+<head>  <meta charset="utf-8">
+
+    <title>Minha Página HTML</title>
+
+<style>
+        body {
+            background-color: #ffddbb;
+
+<!-- Essa cor é referente ao  laranja claro-->cc
+        }
+    </style>
+</head>
+
+
+<body> 
+
+ <h1> Eis que temos  um titulo  </h1>
+
+
+<p><i> Eu estou em uma pagina HTML, interessante </i></p>
+
+<p> olá! Eu sou o Portador desse mundo </p>
+
+
+ <h2> Eis que temos um subtitulo  </h2>
+
+
+<p><i> Esse segundo ítalico é realmente maravilhoso </i></p>
+
+<p> Esse é o segundo parágrafo, e estou especialmente pensando o que eu devo colocar por aqui. </p>
+
+
+ <h2> Tabela quadrada  </h2>
+<table width="89%" border="2">
+<thead>
+
+<tr>
+<th>Mês</th>
+<th>Horas/aulas</th>
+
+</tr> <tbody> <tr>
+<td>Junho</td>
+<td>50</td>
+
+</tr>
+
+<tr>
+
+<td> Agosto</td>
+<td> 50</td>
+
+</tr>  <tbody> <tfoot> <tr>
+
+<th>Total</th>
+<th>100</th>
+
+</tr>
+
+</tfoot>
+
+</table>
+	
+
+ <h2> Tabela Hexagonal  </h2>
+<table width="89%" border="2">
+<thead>
+
+<!-- tabela com Colspan -->
+
+<tr>
+
+<td> Aluno </td>
+
+<td colspan="3">Disciplina</td>
+
+</tr>
+
+<tr> <td>Alex </td>
+
+<td>HTML</td>
+<td> Ambiente WEB </td>
+
+</tr>
+
+
+
+</table>
+
+
+<h2> Tabela Dodecaedro  </h2>
+<table width="89%" border="2">
+
+<!-- tabela com Rowspan -->
+
+<tr>
+
+<td> Aluno </td>
+
+<td rowspan="3">Disciplina</td>
+
+</tr>
+
+<tr> <td>Jorjão </td>
+
+<td>Sistemas</td>
+<td> Ambiente Local </td>
+
+</tr>
+
+
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
